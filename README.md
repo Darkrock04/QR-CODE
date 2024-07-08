@@ -1,7 +1,7 @@
 
 # QR CODE GENERATER
 
-QR code generator and reader application. It allows users to create custom QR codes for various purposes, such as sharing URLs, contact information, Wi-Fi credentials, and more. 
+QR code generator. It allows users to create custom QR codes for various purposes, such as sharing URLs, contact information, Wi-Fi credentials, and more. 
 
 
 # Acknowledgements
@@ -30,9 +30,9 @@ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API k
 https://openweathermap.org/current
 ```
 
-| Parameter | Type     | Description                         |
-| :-------- | :------- | :-----------------------------------|
-|     API   | API KEY  |**d78f79a69d66be56aeb228cfe35bc552**
+| Type     | Description                         |
+| :--------| :-----------------------------------|
+| API KEY  |**d78f79a69d66be56aeb228cfe35bc552**
 
 
 ## Color Reference
