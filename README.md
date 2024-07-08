@@ -27,7 +27,7 @@ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API k
 #### Get the site link 🔗 
 
 ```http
-  [GET /api/items](https://openweathermap.org/current )
+  https://openweathermap.org/current 
  
 ```
 
