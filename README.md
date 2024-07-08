@@ -4,7 +4,7 @@
 QR code generator. It allows users to create custom QR codes for various purposes, such as sharing URLs, contact information, Wi-Fi credentials, and more. 
 
 
-# Acknowledgements
+# REFERENCES 
 
  - [FOR MORE INFO ABOUT QR CODE](https://www.geeksforgeeks.org/qr-code-generator/)
 
