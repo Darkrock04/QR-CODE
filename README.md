@@ -6,7 +6,7 @@ QR code generator. It allows users to create custom QR codes for various purpose
 
 # Acknowledgements
 
- - [FOR MORE INFO ABOUT QR CODE GENERATER ](https://www.geeksforgeeks.org/qr-code-generator/)
+ - [FOR MORE INFO ABOUT QR CODE](https://www.geeksforgeeks.org/qr-code-generator/)
 
 
 # REQUERED  MODULES FOR THE PROJECT 
