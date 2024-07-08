@@ -25,6 +25,6 @@ $ import qrcode
 | red   | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+) #ff0000 |
 
 
-#SCREENSHOT 
+# SCREENSHOT 
 ![youtube](https://github.com/VishalRock04/QR-CODE/assets/133562727/e452d6cf-e26a-4912-8d2c-ec330b402657)
 
