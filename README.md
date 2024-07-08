@@ -24,10 +24,11 @@ $ import requests
 
 https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
 
-#### Get all items
+#### Get the site link 🔗 
 
 ```http
-  GET /api/items
+  [GET /api/items](https://openweathermap.org/current )
+ 
 ```
 
 | Parameter | Type     | Description                |
@@ -39,13 +40,14 @@ Your API key |
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| black  Color | ![#000000](https://via.placeholder.com/10/0a192f?text=+) #000000 |
-| blue Color | ![#0000ff](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-|red  Color | ![#ff0000](https://via.placeholder.com/10/00b48a?text=+) #0000ff |
-| white Color | ![#fffafa](https://via.placeholder.com/10/00b48a?text=+) #fffafa |
+| black   | ![#000000](https://via.placeholder.com/10/0a192f?text=+) #000000 |
+| blue  | ![#0000ff](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+|red   | ![#ff0000](https://via.placeholder.com/10/00b48a?text=+) #0000ff |
+| white | ![#fffafa](https://via.placeholder.com/10/00b48a?text=+) #fffafa |
 
 
 ## Screenshots
+![Screenshot 2024-07-04 054917](https://github.com/VishalRock04/QR-CODE/assets/133562727/e2d187b5-d01c-43e1-bbc9-b7f7bb52d49c)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
