@@ -21,8 +21,8 @@ $ import qrcode
 
 | Color             | Hex                                                  |
 | ----------------- | -----------------------------------------------------|
-| blue  | ![#0000ff](https://via.placeholder.com/10/f8f8f8?text=+) #0000ff |
-| red   | ![#ff0000](https://via.placeholder.com/10/00b48a?text=+) #ff0000 |
+| blue  | ![#0000ff](https://via.placeholder.com/10/0000ff?text=+) #0000ff |
+| red   | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+) #ff0000 |
 
 
 ## Screenshots
