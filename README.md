@@ -26,6 +26,8 @@ $ import qrcode
 
 # USER NEED TO WORK ON 
 $ he can change the from this define method   img = qr.make_image(fill_color="red", back_color="blue") 
+
+
 $ link 🔗 is user defined 
 
 # SCREENSHOT 
