@@ -24,6 +24,9 @@ $ import qrcode
 | blue  | ![#0000ff](https://via.placeholder.com/10/0000ff?text=+) #0000ff |
 | red   | ![#ff0000](https://via.placeholder.com/10/ff0000?text=+) #ff0000 |
 
+# USER NEED TO WORK ON 
+$ he can change the from this define method   img = qr.make_image(fill_color="red", back_color="blue") 
+$ link 🔗 is user defined 
 
 # SCREENSHOT 
 ![youtube](https://github.com/VishalRock04/QR-CODE/assets/133562727/e452d6cf-e26a-4912-8d2c-ec330b402657)
