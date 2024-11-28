@@ -1,7 +1,5 @@
 import qrcode
 
-
-
 def generate_qr_code(data, filename):
     qr = qrcode.QRCode(
         version=1,
@@ -16,7 +14,7 @@ def generate_qr_code(data, filename):
     img.save(filename)
 
 
-data = "https://www.youtube.com/"
-filename = "SBI.png"
+data = input("'Enter anything to generate QR :")
+filename = "QRcode.png"
 generate_qr_code(data, filename)
 print(f"QR code generated and saved as {filename}")
