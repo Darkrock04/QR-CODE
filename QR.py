@@ -1,6 +1,8 @@
 import qrcode
 
 # rock is a coder 
+# rock 1
+
 def generate_qr_code(data, filename):
     qr = qrcode.QRCode(
         version=1,
