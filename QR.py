@@ -18,3 +18,4 @@ data = input("'Enter anything to generate QR :")
 filename = "QRcode.png"
 generate_qr_code(data, filename)
 print(f"QR code generated and saved as {filename}")
+print("##############   Your QR_code is Generated ##############")
