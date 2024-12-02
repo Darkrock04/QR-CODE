@@ -7,12 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
+        python-version: '3.10'
         
     - name: Install dependencies
       run: |
@@ -21,12 +21,20 @@ jobs:
         
     - name: Run QR code generator
       run: |
-        python QR.py << EOF
-        test
-        EOF
+        # Simulate user input for QR code generation
+        echo "'Enter anything to generate QR :Hello World'" | python QR.py
+        
+    - name: Verify QR code generation
+      run: |
+        # Check if QRcode.png was created
+        if [ ! -f QRcode.png ]; then
+          echo "QR code was not generated"
+          exit 1
+        fi
         
     - name: Upload QR code artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: qr-code
         path: QRcode.png
+        retention-days: 5
