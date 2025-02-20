@@ -28,7 +28,7 @@ $ import qrcode
 $ he can change the from this define method   img = qr.make_image(fill_color="red", back_color="blue") 
 
 
-$ link 🔗 is user defined 
+$ link 🔗 is user input 
 
 # SCREENSHOT 
 ![youtube](https://github.com/VishalRock04/QR-CODE/assets/133562727/e452d6cf-e26a-4912-8d2c-ec330b402657)
